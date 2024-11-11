@@ -1,0 +1,4 @@
+<div class="bg-gray-200 p-4 rounded-md space-y-2">
+    <h2 class="text-2xl font-semibold">Welcome!</h2>
+    <p class="text-sm text-gray-500">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis ullam magnam vel iusto maiores molestiae voluptatibus. Rem praesentium placeat eaque, sint quaerat doloremque voluptate ab ipsum deserunt fuga, maiores aperiam iusto ratione ea molestiae! Asperiores nostrum vel tempora sunt adipisci earum doloribus ipsa corporis odio, laborum, delectus corrupti incidunt ut recusandae! Beatae velit fugit repellat omnis deserunt, voluptatibus cum, inventore nobis ut debitis soluta dicta earum, reprehenderit itaque voluptas architecto. Iure minima assumenda tenetur dolore totam dolor in incidunt laborum tempora id. Ea, praesentium iste voluptatem dolore fugit omnis ut accusantium beatae sapiente, assumenda quod exercitationem nihil quibusdam. In, facilis!</p>
+</div>
